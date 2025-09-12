@@ -19,13 +19,13 @@
 
 ## ⚡ Usage
 
-#### 1. Run the application:
+### 1. Run the application:
 
 ```bash
 python password_generator_cli_app.py
 ```
 
-#### 2. Follow the menu:
+### 2. Follow the menu:
 
 ```bash
 🔐 Password Generator CLI
@@ -34,7 +34,7 @@ python password_generator_cli_app.py
 3️⃣ Exit
 ```
 
-#### 3. If generating a password, provide:
+### 3. If generating a password, provide:
 
 ```bash
 Password length
@@ -44,7 +44,7 @@ Use uppercase letters? (y/n)
 Use lowercase letters? (y/n)
 ```
 
-#### 4. Optionally save the password to passwords.txt
+### 4. Optionally save the password to passwords.txt
 
 #### 📌 Example Output
 
