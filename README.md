@@ -44,7 +44,7 @@ Use uppercase letters? (y/n)
 Use lowercase letters? (y/n)
 ```
 
-### 4. Optionally save the password to passwords.txt
+### 4. Optionally save the password to (`passwords.txt`)
 
 #### 📌 Example Output
 
