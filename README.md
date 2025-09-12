@@ -1,6 +1,6 @@
 # 🔐 Password Generator CLI App
 
-A simple and interactive CLI application to generate, save, and view secure passwords with customizable options.
+### A simple and interactive CLI application to generate, save, and view secure passwords with customizable options.
 
 ---
 
@@ -46,7 +46,7 @@ Use lowercase letters? (y/n)
 
 #### 4. Optionally save the password to passwords.txt
 
-####📌 Example Output
+#### 📌 Example Output
 
 ```bash
 🔐 Password Generator CLI
@@ -77,8 +77,9 @@ Do you want to save it? (y/n): y
 ---
 
 ## 📂 Project Structure
-
+```markdown
 .
 ├── password_generator_cli_app.py # Main CLI application
 ├── passwords.txt # File to store generated passwords
 └── README.md # Project documentation
+```
