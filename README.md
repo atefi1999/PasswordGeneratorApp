@@ -69,7 +69,7 @@ Do you want to save it? (y/n): y
 ---
 ## 🎥 Demo
 
-<img  alt="screenshot" alt="screenshot" src="https://github.com/user-attachments/assets/2f24ffec-dfac-4a3f-b781-2cdb100a6ad4"  width="50%" />
+<img  alt="screenshot"  src="https://github.com/user-attachments/assets/f83daecd-336c-400d-b976-8cd55b82f23c"  width="50%" />
 
 ---
 
