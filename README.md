@@ -67,6 +67,11 @@ Do you want to save it? (y/n): y
 1. G7!k2$hQ9@Lw
 ```
 ---
+## 🎥 Demo
+
+<img  alt="screenshot" alt="screenshot" src="https://github.com/user-attachments/assets/2f24ffec-dfac-4a3f-b781-2cdb100a6ad4"  width="35%" />
+
+---
 
 ## 📝 Notes
 
